@@ -1,1 +1,9 @@
 # seleniumExtention
+
+Seleniumでエクステンションをインストールしてのテスト用
+
+Windows10Chromeで動作確認用
+
+extension変数にはChromeのエクステンションIDが必要。
+エクステンションIDはChromeの設定から拡張機能を開き
+エクステンションの詳細を開くとアドレスバーにIDあり
